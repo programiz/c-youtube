@@ -1,6 +1,6 @@
 # 1 Getting Started With C Programming
 
-Video Link: [Put Linke Here]()
+Video Link: [Put Link Here]()
 
 Hello World is a simple program that is often used to introduce a new programming language to beginners.
 
