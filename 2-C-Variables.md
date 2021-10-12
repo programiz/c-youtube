@@ -1,6 +1,6 @@
 # C Variables
 
-Video Link: [Put Link Here]()
+Video Link: [https://youtu.be/h4VBpylsjJc](https://youtu.be/h4VBpylsjJc)
 Tutorial Link: [https://www.programiz.com/c-programming/c-variables-constants]()
 
 
