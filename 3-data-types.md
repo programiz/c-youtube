@@ -1,6 +1,6 @@
 # C Data Types
 
-Video Link: [Put Link Here]()
+Video Link: [https://youtu.be/sARaqR0hRI4](https://youtu.be/sARaqR0hRI4)
 Tutorial Link: [https://www.programiz.com/c-programming/c-data-types]()
 
 ## Data Type: int
