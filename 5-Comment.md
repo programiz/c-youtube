@@ -211,8 +211,8 @@ Q.  What is the correct way to comment in C programming?
 
 **Options**
 1. //
-2. #
-3. <!--->
+2. \#
+3. \<!--->
 4. All of the above
 
 **Answer: 1**
