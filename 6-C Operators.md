@@ -1,5 +1,5 @@
 # C Operators
-Video Link: [https://youtu.be/XRopVXtTzfo](https://youtu.be/XRopVXtTzfo)
+Video Link: [https://youtu.be/_57FcSBtJNU](https://youtu.be/_57FcSBtJNU)
 Tutorial Link: [https://www.programiz.com/c-programming/c-operators]()
 
 ## Arithmetic Operator
