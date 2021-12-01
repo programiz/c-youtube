@@ -26,12 +26,12 @@ int main() {
 ```
 ## Comparison Operator
 ```c
->	 Greater than
-<	 Less than
-== Equal to
->= Greater than or equal to
-<= Less than or equal to
-!= Not equal to
+>	Greater than
+<	Less than
+==   Equal to
+>=   Greater than or equal to
+<=   Less than or equal to
+!=   Not equal to
 ```
 ## Greater Than Operator
 ```c
