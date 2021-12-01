@@ -26,12 +26,12 @@ int main() {
 ```
 ## Comparison Operator
 ```c
->	Greater than
-<	Less than
-==   Equal to
->=   Greater than or equal to
-<=   Less than or equal to
-!=   Not equal to
+>   Greater than
+<   Less than
+==  Equal to
+>=  Greater than or equal to
+<=  Less than or equal to
+!=  Not equal to
 ```
 ## Greater Than Operator
 ```c
@@ -52,6 +52,8 @@ int main() {
 ```
 1
 ```
+
+### Change value from 12 to 9
 
 ```c
 #include <stdio.h>
@@ -89,10 +91,11 @@ int main() {
 ```
 
 **Output**
-
 ```
 1
 ```
+
+### Change value from 5 to 9
 
 ```c
 #include <stdio.h>
@@ -134,6 +137,7 @@ int main() {
 ```
 1
 ```
+### Change value from 9 to 6
 
 ```c
 #include <stdio.h>
@@ -173,7 +177,7 @@ int main() {
 1
 ```
 
-## Greater Than or Equal Operator
+## Greater Than or Equal To Operator
 
 ```c
 #include <stdio.h>
@@ -194,6 +198,7 @@ int main() {
 ```c
 1
 ```
+## Less Than or Equal To Operator
 
 ```c
 #include <stdio.h>
@@ -214,7 +219,7 @@ int main() {
 0
 ```
 
-### comparator operators with floating point numbers
+### Comparator operators with floating point numbers
 ```c
 #include <stdio.h>
 #include <stdbool.h>
@@ -257,7 +262,7 @@ int main() {
 ```c
 1
 ```
-### comparison operators with a variable and value
+### Comparison operators with a variable and value
 ```c
 #include <stdio.h>
 #include <stdbool.h>
@@ -308,6 +313,7 @@ int main() {
 ```c
 1
 ```
+### Change the value of age to 16
 
 ```c
 #include <stdio.h>
@@ -376,6 +382,8 @@ int main() {
 1
 ```
 
+### Change the operator >= to <=
+
 ```c
 #include <stdio.h>
 #include <stdbool.h>
@@ -400,7 +408,7 @@ int main() {
 ## Programiz Quiz
 Q. Which of the following code returns false?
 
-**Options**
+**Options:**
 1. 9 >= 9
 1. 9 > 9
 1. 9 <= 9
