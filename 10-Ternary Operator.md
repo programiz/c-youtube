@@ -1,13 +1,11 @@
-# C Booleans and Comparison Operator
-Video Link: [https://youtu.be/K8mntKyBJGc](https://youtu.be/K8mntKyBJGc)
-Tutorial Link: [https://www.programiz.com/c-programming/c-if-else-statement]()
+# Ternary Operator in C
+Video Link: [https://youtu.be/05xv2nMj6Ls](https://youtu.be/05xv2nMj6Ls)
+Tutorial Link: [https://www.programiz.com/c-programming]()
 
-## Ternary Operator in C
+## Syntax :
 
 ```c
-Syntax :
-
-test_condition ? expression1 : experssion2;
+test_condition ? expression1 : expression2;
 ```
 
 ## Example: Ternary Operator
