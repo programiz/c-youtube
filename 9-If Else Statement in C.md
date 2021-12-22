@@ -217,13 +217,41 @@ Invalid Age
 
 ## Programming Task
 
-Q. Can you create a program to check whether a number is positive or negative or 0? To create this program, create a variable named number and assign a double value to it based on the user input. Then using an if statement, check if the number variable is positive or negative or 0.
+Q. Can you create a program to check whether a number is positive or negative or 0? 
 
-If number is positive, print "The number is positive"
-If number is negative, print "The number is negative"
-(and) If number is 0, print "The number is 0"
+- If number is positive, print "The number is positive"
+- If number is negative, print "The number is negative"
+- (and) If number is 0, print "The number is 0"
 
+### Solution :
+```c
+#include <stdio.h>
 
+int main() {
+
+    double number;
+    printf("Enter a number: ");
+    scanf("%lf", &number);
+    
+    if (number > 0) {
+        printf("The number is positive");
+    }
+    else if (number < 0) {
+        printf("The number is negative");
+    }
+    else {
+        printf("The number is 0");
+    }
+    
+    return 0;
+}
+``` 
+**Output**
+```
+Enter a number: -8
+The number is negative
+
+```
 ---
 
 ## Programiz Quiz
