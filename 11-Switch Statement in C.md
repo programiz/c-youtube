@@ -229,7 +229,7 @@ Q. Use the switch statement to create a program that will find the month based o
 - If number is 3, print March, and so on.
 
 ## Solution :
-
+```c
 #include <stdio.h>
 
 int main() {
@@ -281,6 +281,7 @@ int main() {
     
     return 0;
 }
+```
 
 **Output**
 ```
