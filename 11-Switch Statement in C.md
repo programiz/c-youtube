@@ -1,6 +1,6 @@
 # Switch Statement in C Programming
 Video Link: [https://youtu.be/u6mb8NNwojA](https://youtu.be/u6mb8NNwojA)
-Tutorial Link: [https://www.programiz.com/c-programming/c-switch-case-statement]()
+Tutorial Link: [https://www.programiz.com/c-programming/c-switch-case-statement](https://www.programiz.com/c-programming/c-switch-case-statement)
 
 ### Syntax :
 
