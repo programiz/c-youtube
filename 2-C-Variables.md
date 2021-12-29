@@ -1,7 +1,7 @@
 # C Variables
 
 Video Link: [https://youtu.be/h4VBpylsjJc](https://youtu.be/h4VBpylsjJc)
-Tutorial Link: [https://www.programiz.com/c-programming/c-variables-constants]()
+Tutorial Link: [https://www.programiz.com/c-programming/c-variables-constants](https://www.programiz.com/c-programming/c-variables-constants)
 
 
 ## Print Line of Text
