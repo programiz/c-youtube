@@ -1,6 +1,6 @@
 # while loop in C Programming
 Video Link: [https://youtu.be/WgS_SF1VrEk](https://youtu.be/WgS_SF1VrEk)
-Tutorial Link: [https://www.programiz.com/c-programming/c-do-while-loops]()
+Tutorial Link: [https://www.programiz.com/c-programming/c-do-while-loops](https://www.programiz.com/c-programming/c-do-while-loops)
 
 ### Syntax :
 

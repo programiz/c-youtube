@@ -1,6 +1,6 @@
 # C Booleans and Comparison Operator
 Video Link: [https://youtu.be/K8mntKyBJGc](https://youtu.be/K8mntKyBJGc)
-Tutorial Link: [https://www.programiz.com/c-programming/c-if-else-statement]()
+Tutorial Link: [https://www.programiz.com/c-programming/c-if-else-statement](https://www.programiz.com/c-programming/c-if-else-statement)
 
 ## if Statement in C Programming
 

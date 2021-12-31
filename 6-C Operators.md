@@ -1,6 +1,6 @@
 # C Operators
 Video Link: [https://youtu.be/_57FcSBtJNU](https://youtu.be/_57FcSBtJNU)
-Tutorial Link: [https://www.programiz.com/c-programming/c-operators]()
+Tutorial Link: [https://www.programiz.com/c-programming/c-operators](https://www.programiz.com/c-programming/c-operators)
 
 ## Arithmetic Operator
 ```c
